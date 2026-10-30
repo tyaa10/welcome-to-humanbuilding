@@ -8,9 +8,6 @@
 *.fdb_latexmk
 *.synctex.gz
 
-# Артефакты извлечения медиа (если будете переизвлекать)
-assets/images/media/
-
 # Системный мусор
 .DS_Store
 Thumbs.db
