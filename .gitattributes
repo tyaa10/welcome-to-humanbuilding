@@ -1,0 +1,12 @@
+# Нормализация переводов строк
+* text=auto eol=lf
+
+# Бинарные файлы — git не пытается диффить
+*.pdf  binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+
+# Markdown — это документация, а не код
+*.md linguist-documentation

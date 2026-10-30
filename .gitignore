@@ -1,0 +1,23 @@
+# Временные файлы сборки / конвертации
+.pandoc-tmp/
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Артефакты извлечения медиа (если будете переизвлекать)
+assets/images/media/
+
+# Системный мусор
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Редакторы
+.vscode/
+.idea/
+*.swp
+*~
